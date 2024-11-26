@@ -1,0 +1,14 @@
+I have all the commands that we use in git in this file.
+
+----------------------------------------*--------------------------------
+
+Connect github to local host: 
+git config --global user.name "username"
+git config --global user.email "email id"
+
+change file name 
+git mv file from file to
+
+Changing directory:
+change from one folder to another - cd foldername
+exit the folder - cd ..
