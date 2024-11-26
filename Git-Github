@@ -16,17 +16,25 @@ exit the folder - cd ..
 Downloading git repository to vs code 
 git clone repolink
 
-create a file and update it in remote repo
+create a file in local repo and updating in remote repo
 git add filename 
 git status
 git commit -m "message"
 git push origin main
 
+How changes in the file is been moved from local repo to remote repo:
 vs code - changes made in vs code - WORKING FOLDER 
 |
 git copy folder 
 |
 github
+
+deleting a file in local repo and updating in remote repo
+git add filename ("add" doesn't mean adding a file, it mean any changes in the repository)
+git commit -m "message"
+git push origin main 
+
+
 
 
 
