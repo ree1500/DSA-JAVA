@@ -34,6 +34,12 @@ git add filename ("add" doesn't mean adding a file, it mean any changes in the r
 git commit -m "message"
 git push origin main 
 
+Creating a file in remote repo and updating in local repo
+git pull
+
+modify the file in remote repo and to update in local repo 
+git pull 
+
 
 
 
