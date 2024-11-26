@@ -12,3 +12,21 @@ git mv file from file to
 Changing directory:
 change from one folder to another - cd foldername
 exit the folder - cd ..
+
+Downloading git repository to vs code 
+git clone repolink
+
+create a file and update it in remote repo
+git add filename 
+git status
+git commit -m "message"
+git push origin main
+
+vs code - changes made in vs code - WORKING FOLDER 
+|
+git copy folder 
+|
+github
+
+
+
