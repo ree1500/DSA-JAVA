@@ -1,1 +1,21 @@
 JAVA topic to be learned.
+-------------------\*----------------------
+29/11/2024
+
+1.  Java Intro
+2.  Data types
+3.  If, if else
+4.  Strings
+5.  Operators
+    30/11/2024
+6.  Loops
+7.  Arrays
+8.  Mastering Loops
+    01/12/2024
+9.  Java Objects and Classes
+10. Functions
+11. Return keyword
+    02/12/2024
+12. Method overloading
+13. For Each
+14. Consturctor
